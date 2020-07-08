@@ -1,2 +1,2 @@
 # HelloWorld
-Hello World repository
+Hello, this is my README file (:
